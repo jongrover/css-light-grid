@@ -4,11 +4,13 @@ A light weight 12 column vanilla CSS grid using floats. You can fork and customi
 
 ## Usage
 
-To use, link include light-grid.css in your css folder. In your html page link to the file `<link rel="stylesheet" href="css/light-grid.css">`. Then include a wrapping element with a class of container. Inside container add an element with a class of row. Inside rows add as many elements with class of col-<number of rows to span>. Column numbers fall between 1 and 12.
+To use, include light-grid.css in your css folder. In your html page link to the file  
+ `<link rel="stylesheet" href="css/light-grid.css">`.  
+ Then include a wrapping element with a class of container. Inside container add an element with a class of row. Inside rows add as many elements with class of col-&lt;number&gt;. Column numbers fall between 1 and 12. The number of columns should only add up to maximum of 12.
 
 ## Example
 
-The code below will create 2 rows, the first with 3 columns spanning 4 of the 12 grid and a second row with 3 columns made up of two spanning 5 of 12 columns and one spanning 2 of 12.
+The code below will create 2 rows, the first with 3 columns spanning 4 of the 12 grid, and a second row with 3 columns made up of two spanning 5 of 12 columns and one spanning 2 of 12.
 
 ```
 <div class="container">

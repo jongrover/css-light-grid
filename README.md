@@ -30,7 +30,7 @@ Here is a display image showing many possible combinations in the browser.
 
 ## Demo
 
-See a demo by loading [index.html](index.html) in a browser.
+See a demo by loading index.html in a browser.
 
 ## Created by
 

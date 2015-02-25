@@ -4,7 +4,7 @@ A light weight 12 column vanilla CSS grid using floats. You can fork and customi
 
 ## Usage
 
-To use, include light-grid.css in your css folder. In your html page link to the file.  
+To use, include light-grid.css in your css folder. In your html page link to the file:  
  `<link rel="stylesheet" href="css/light-grid.css">`  
  Then include a wrapping element with a class of container. Inside container add an element with a class of row. Inside rows add as many elements with class of col-&lt;number&gt;. Column numbers fall between 1 and 12. The number of columns should only add up to maximum of 12.
 

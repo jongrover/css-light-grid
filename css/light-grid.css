@@ -21,13 +21,13 @@
   height: 0;
 }
 
-[class*="col-"] {
+[class^="col-"] {
   float: left;
   padding: 2%;
   margin-left: 2%;
 }
 
-[class*="col-"]:first-child {
+[class^="col-"]:first-child {
   margin-left: 0;
 }
 
